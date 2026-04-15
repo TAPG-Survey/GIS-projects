@@ -56,3 +56,6 @@ Thumbs.db
 #Foto & Vidio
 *.JPG
 *.JEPG
+
+#Temporary file
+~$*
