@@ -1,6 +1,7 @@
 README.md
 .env
 data/
+
 # Python
 __pycache__/
 *.py[cod]
@@ -53,9 +54,30 @@ Thumbs.db
 # Project specific
 /venv/
 
-#Foto & Vidio
-*.JPG
-*.JEPG
-
 #Temporary file
 ~$*
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+
+# Video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.flv
+*.webm
+*.psd
+*.ai
+
+#key
+config/secrets.json
+*.key
+*.pem
