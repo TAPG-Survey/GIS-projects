@@ -1,0 +1,11 @@
+Backgound:
+- Untuk meningkatkan yeild analisa kesehatan tanaman dan efisiensi pemupukan diperlukan salah satunya dengan analisa pokokkuning tahunan
+- Analisa pokok kuning dilakukan secara manual dengan digitasi memakan waktu lama
+- Fotoudara efektif bisa dipakai untuk analisa bulan Agustus/September
+- Untuk analisa per PC rata-rata 2 hari, untuk reporting per PT rata-rata 1 jam
+
+
+
+RootCase:
+- Pekerjaan masih manual digitasi
+- 
